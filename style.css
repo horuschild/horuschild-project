@@ -9,6 +9,15 @@ body {
   overflow: hidden;
 }
 
+p {
+   position: absolute;
+   top: 20px;
+   left: 20px;
+   font-size: 25px;
+   text-transform: uppercase;
+   font-family: Clash Display;
+}
+
 .block {
   position: relative;
   width: 420px;
@@ -18,8 +27,8 @@ body {
 
 h1 {
   position: absolute;
-  font-family: "Monument Extended";
-  font-weight: lighter;
+  font-family: "Clash Display";
+  font-weight: 400;
   font-size: 64px;
   color: whitesmoke;
 }
